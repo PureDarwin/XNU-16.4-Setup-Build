@@ -30,7 +30,7 @@ curl -O https://opensource.apple.com/tarballs/dtrace/dtrace-209.20.4.tar.gz && c
  	for file in *.tar.gz; do tar -zxf $file; done && rm -f *.tar.gz
 ```
 
- ### Building Dtrace and Avaliablilty -- copy each line by line and paste into terminal 
+### Building Dtrace and Avaliablilty -- copy each line by line and paste into terminal 
 
 ```
 	cd dtrace-209.20.4
